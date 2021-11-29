@@ -32,3 +32,5 @@ To insert an image
  ---|---
  1|AP
  2|TS
+
+:joy:    :smiley:
