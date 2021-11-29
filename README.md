@@ -22,3 +22,7 @@ To insert an image
  * Orange
  * Apple
  * Banana
+1. Vegetables
+ 1. Tomato
+ 2. Potato
+ 3. Cucumber
