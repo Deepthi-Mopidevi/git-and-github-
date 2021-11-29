@@ -19,10 +19,14 @@ To insert an image
 ![Beauty of nature](https://i.pinimg.com/originals/a7/3d/6e/a73d6e4ac85c6a822841e449b24c78e1.jpg)
 
 * Fruits
- * Orange
- * Apple
- * Banana
+  * Orange
+  * Apple
+  * Banana
 1. Vegetables
- 1. Tomato
- 2. Potato
- 3. Cucumber
+   1. Tomato
+   2. Potato
+   3. Cucumber
+ SNo|Name
+ ---|---
+ 1|AP
+ 2|TS
